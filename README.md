@@ -1,4 +1,4 @@
-# 🚀 Dynamic Pricing Engine — Omnichannel (D2C, 3P & 1P)
+# 🚀 Precificação Dinâmica / Dynamic Pricing Engine — Omnichannel (D2C, 3P & 1P)
 
 Motor de precificação dinâmica orientado a dados projetado para equilibrar **competitividade de mercado** e **proteção de margem líquida** em operações de e-commerce que atuam simultaneamente em **Site Próprio (D2C)**, **Marketplace 3P** e **Sell-in 1P**.
 
